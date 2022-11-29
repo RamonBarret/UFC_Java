@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="cursoemvideo" src=".github/cursoemvideo.png" />
-  <img alt="java" src=".github/Java_logo.png" />
+
   <img alt="ufc" src=".github/ufc_logo.jpg" />
 </p>
 
@@ -18,19 +18,20 @@ O programa vai exibir na tela os atributos de cada lutador, o resultado da luta 
 - [x] Cada lutador só pode lutar com um adversário de sua categoria (representada pelo peso)
 - [x] O lutador tem que ter o peso mínimo para lutar e também se tem um peso máximo para lutar como requesitos
   
-## Preview - Compilação - Empate 👨🏽‍💻
+## Compilação 👨🏽‍💻
+### Preview - Empate 🤷🏽‍♂️
 <p align="center">
-  <img alt="output-empate" src=".github/preview_empate.png">
+  <img alt="output-empate" src=".github/preview_empate.PNG">
 </p>
 
-## Preview - Compilação - Vencedor 01 👨🏽‍💻
+## Preview - Vencedor 01 👨🏽
 <p align="center">
-  <img alt="output-v01" src=".github/preview_v01.png">
+  <img alt="output-v01" src=".github/preview_v01.PNG">
 </p>
 
-## Preview - Compilação - Vencedor 02 👨🏽‍💻
+## Preview - Vencedor 02 👦🏽
 <p align="center">
-  <img alt="output-v02" src=".github/preview_v02.png">
+  <img alt="output-v02" src=".github/preview_v02.PNG">
 </p>
 
 ## Tecnologias 🛠
