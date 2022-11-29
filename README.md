@@ -1,13 +1,7 @@
 <p align="center">
   <img alt="cursoemvideo" src=".github/cursoemvideo.png" />
-</p>
-
-<p align="center">
   <img alt="java" src=".github/Java_logo.png" />
-</p>
-
-<p align="center">
-  <img alt="ufc" src=".github/ufc_logo.png" />
+  <img alt="ufc" src=".github/ufc_logo.jpg" />
 </p>
 
 ## Código - UFC - Combate 🤼‍♂️
