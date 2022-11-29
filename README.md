@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img alt="java" src=".github/Java_logo.svg" />
+  <img alt="java" src=".github/Java_logo.png" />
 </p>
 
 <p align="center">
-  <img alt="ufc" src=".github/UFC_logo.svg" />
+  <img alt="ufc" src=".github/ufc_logo.png" />
 </p>
 
 ## Código - UFC - Combate 🤼‍♂️
