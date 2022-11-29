@@ -17,6 +17,7 @@ O programa vai exibir na tela os atributos de cada lutador, o resultado da luta 
 - [x] Elaboração de um programa para representar combates, similar ao UFC.
 - [x] Cada lutador só pode lutar com um adversário de sua categoria (representada pelo peso)
 - [x] O lutador tem que ter o peso mínimo para lutar e também se tem um peso máximo para lutar como requesitos
+- [x] Relacionamento entre as classes <strong>Lutador</strong> e <strong>Luta</strong>
   
 ## Compilação 👨🏽‍💻
 ### Preview - Empate 🤷🏽‍♂️
